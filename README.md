@@ -3,15 +3,10 @@
 A semantic and accessibility-focused landing page built as part of a training project.  
 This project demonstrates proper use of HTML5 semantic elements, accessibility best practices, and structurally correct markup.
 
-## 🚀 Live Demo
-👉 [Click here to view](https://accessibility-fundamentals-and-html-semantic-ef3f07.gitlab.io)
+## Live Demo
+[Click here to view](https://accessibility-fundamentals-and-html-semantic-ef3f07.gitlab.io)
 
-## 📁 Repository
-👉 [GitLab Repo](https://gitlab.com/Yevhen2022/accessibility-fundamentals-and-html-semantic)
-
----
-
-## 🧠 Key Concepts Applied
+## Key Concepts Applied
 
 - Replaced outdated `<div>` structure with semantic tags: `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, and `<footer>`
 - Ensured only one `<h1>` per page, with a proper heading hierarchy (`<h2>`, `<h3>`, `<h4>`)
@@ -22,7 +17,7 @@ This project demonstrates proper use of HTML5 semantic elements, accessibility b
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - HTML5
 - CSS3
@@ -32,6 +27,6 @@ This project demonstrates proper use of HTML5 semantic elements, accessibility b
 
 ---
 
-## 📝 Task Instructions
+## Task Instructions
 
 See [REQUIREMENTS.md](./REQUIREMENTS.md) for the full original task description from the course.
