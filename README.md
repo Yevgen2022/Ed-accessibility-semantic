@@ -4,7 +4,7 @@ A semantic and accessibility-focused landing page built as part of a training pr
 This project demonstrates proper use of HTML5 semantic elements, accessibility best practices, and structurally correct markup.
 
 ## Live Demo
-[Click here to view](yevgen2022.github.io/Ed-accessibility-semantic/)
+[Click here to view](https://yevgen2022.github.io/Ed-accessibility-semantic/)
 
 ## Key Concepts Applied
 
