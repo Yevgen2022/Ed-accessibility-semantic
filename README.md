@@ -5,7 +5,7 @@ This project demonstrates proper use of HTML5 semantic elements, accessibility b
 
 ## Live Demo
 [Click here to view](https://accessibility-fundamentals-and-html-semantic-ef3f07.gitlab.io)
-<!-- Trigger CI -->
+
 ## Key Concepts Applied
 
 - Replaced outdated `<div>` structure with semantic tags: `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, and `<footer>`
